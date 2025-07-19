@@ -1,6 +1,6 @@
 ---
 title: "Testing Git Web Pages"
-format: html
+format: gfm
 editor: visual
 ---
 
